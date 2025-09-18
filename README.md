@@ -1,3 +1,4 @@
+Running Test: https://drive.google.com/file/d/1uE1cFxB9XLfJnJyZh98b0FOle5hNBrBA/view?usp=drive_link
 # Nxt-solution - Mobile Test Automation
 
 Automated test suite for mobile list management application using Java, Appium, and TestNG following Page Object Model (POM) design pattern.
